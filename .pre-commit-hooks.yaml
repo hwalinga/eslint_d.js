@@ -1,0 +1,8 @@
+- id: eslint_d
+  name: eslint_d
+  entry: eslint_d
+  description: "An AST-based deamon pattern checker for JavaScript."
+  language: node
+  types: ['javascript']
+  require_serial: false
+  language_version: 19.9.0
